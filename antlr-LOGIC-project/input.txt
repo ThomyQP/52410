@@ -1,0 +1,5 @@
+p = true
+q = true
+r = false
+
+(p ∧ q) → r
