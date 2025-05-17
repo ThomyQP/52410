@@ -1,0 +1,6 @@
+p = true 
+r = false
+g= true
+
+(p + r) → -g
+
