@@ -1,0 +1,5 @@
+p23 = true
+q = true
+r = false
+
+(p23 ∧ q) → r
