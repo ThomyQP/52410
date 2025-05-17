@@ -27,3 +27,5 @@ No acepta numeros como proposiciones ( Ej: 53 = true → ERROR)
 SIEMPRE se debe mantener la linea de codigo vacia entre la declaracion de veracidad de las propocisiones y la expresion logica en cuestion, de lo contrario, el analizador no podra identificar cual es una declaracio y cual es una expresion logica
 
 SIEMPRE debe dar el valor de verdad de la proposicion, de lo contrario, no estara declarada para que el analizador pueda trabajar adecuadamente con ella.
+
+NO utilizar operadores como: -,+, *,/ (NO SON ACEPTADOS POR LA GRAMATICA) 
