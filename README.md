@@ -4,7 +4,9 @@ Primero que nada, debemos abrir el cmd, se puede hacer WIN+R y escribir CMD y lu
 
 ![image](https://github.com/user-attachments/assets/94214ee7-1658-4bf5-9be9-3be62688bf7a)
 
-Luego Escribimos git clone
+Luego Escribimos git clone https://github.com/ThomyQP/52410.git y le damos a enter:
+
+![image](https://github.com/user-attachments/assets/d16bd0d4-9978-4223-9c94-7dbb66def802)
 
 
 Este analizador es capaz de devolver el valor de expresiones logicas (en funcion de los valores ingresados en el archivo txt) 
