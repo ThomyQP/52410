@@ -4,11 +4,21 @@ Primero que nada, debemos abrir el cmd, se puede hacer WIN+R y escribir CMD y lu
 
 ![image](https://github.com/user-attachments/assets/94214ee7-1658-4bf5-9be9-3be62688bf7a)
 
-Luego Escribimos git clone https://github.com/ThomyQP/52410 y le damos a enter:
+Luego Escribimos, cd Documents (para entrar a la carpeta "Documentos" dentro de nuestra pc y dentro de la misma escribimos git clone https://github.com/ThomyQP/52410 y le damos a enter:
 
-![image](https://github.com/user-attachments/assets/e9ea9344-0ceb-4385-b658-d717ae8ff4df)
+![image](https://github.com/user-attachments/assets/2f4c1ae4-bb23-45ac-b8ea-1367221c6e4f)
 
-Luego cd 52410 y luego cd 
+
+Luego cd 52410 y luego cd antlr-LOGIC-project para poder entrar a la carpeta donde se encuentra la gramatica y el codigo
+
+![image](https://github.com/user-attachments/assets/2ae41e6e-eea6-4a9e-9fbe-8c398b712000)
+
+
+Por ultimo, escribimos code . y ya podremos empezar a trabajar con el analizador.
+
+![image](https://github.com/user-attachments/assets/bcb9963d-5211-425e-9493-8b9e651158ca)
+
+Luego debemos ir escribiendo en input.txt cada uno de los inputs que estan en el repositorio
 
 Este analizador es capaz de devolver el valor de expresiones logicas (en funcion de los valores ingresados en el archivo txt) 
 El funcionamiento consiste basicamente en primero escribir el valor de verdad de la proposición (true/false) y luego, dejar una linea de codigo vacia, y en la siguiente escribir la expresion logica que contenga las proposiciones ya declaradas
