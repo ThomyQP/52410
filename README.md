@@ -4,10 +4,11 @@ Primero que nada, debemos abrir el cmd, se puede hacer WIN+R y escribir CMD y lu
 
 ![image](https://github.com/user-attachments/assets/94214ee7-1658-4bf5-9be9-3be62688bf7a)
 
-Luego Escribimos git clone https://github.com/ThomyQP/52410.git y le damos a enter:
+Luego Escribimos git clone https://github.com/ThomyQP/52410 y le damos a enter:
 
-![image](https://github.com/user-attachments/assets/d16bd0d4-9978-4223-9c94-7dbb66def802)
+![image](https://github.com/user-attachments/assets/e9ea9344-0ceb-4385-b658-d717ae8ff4df)
 
+Luego cd 52410 y luego cd 
 
 Este analizador es capaz de devolver el valor de expresiones logicas (en funcion de los valores ingresados en el archivo txt) 
 El funcionamiento consiste basicamente en primero escribir el valor de verdad de la proposición (true/false) y luego, dejar una linea de codigo vacia, y en la siguiente escribir la expresion logica que contenga las proposiciones ya declaradas
